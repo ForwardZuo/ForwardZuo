@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./assets/portrait.png" align="right" width="28%" alt="蓝白色的猫耳少女与笔记本" />
-  <img src="./assets/hello.svg" width="68%" alt="Hello, I'm ForwardZuo." />
+  <h2>Hi, I'm ForwardZuo.</h2>
 
   <p>写代码 · 做游戏 · 记录日常</p>
   <p>喜欢把想法做成能用的小东西。<br />
@@ -26,10 +26,11 @@
 
 ### 我的角落
 
-| 随手记录 | 一起玩点什么 |
-| :--- | :--- |
-| **[Forwardzz · 博客 ↗](https://www.forwardzz.com/)** | **[Forwardzz · 游戏站 ↗](https://games.forwardzz.com/)** |
-| 开发记录、学习笔记，以及自托管的折腾过程。 | 在线小游戏，还有可以和朋友组队的多人房间。 |
+**[随手记录 · 博客 ↗](https://www.forwardzz.com/)**  
+开发记录、学习笔记，以及自托管的折腾过程。
+
+**[一起玩 · 游戏站 ↗](https://games.forwardzz.com/)**  
+在线小游戏，还有可以和朋友组队的多人房间。
 
 ### 正在折腾
 
