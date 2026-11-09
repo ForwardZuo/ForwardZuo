@@ -1,18 +1,38 @@
-<img src="./assets/cover.png" width="100%" alt="ForwardZuo · 代码、游戏、日常" />
+<div align="center">
+  <img src="./assets/portrait.png" align="right" width="28%" alt="蓝白色的猫耳少女与笔记本" />
+  <img src="./assets/hello.svg" width="68%" alt="Hello, I'm ForwardZuo." />
 
-写代码，也折腾小游戏。做过的东西放这里，过程记在博客。
+  <p>写代码 · 做游戏 · 记录日常</p>
+  <p>喜欢把想法做成能用的小东西。<br />
+  学习 Web 开发，也折腾 Linux 和自托管。<br />
+  最近在做能和朋友一起玩的网页游戏。</p>
 
-<p>
-<a href="https://www.forwardzz.com/"><img src="./assets/notes.png" width="390" alt="随手记 · 点击打开博客" /></a>
-<a href="https://games.forwardzz.com/"><img src="./assets/games.png" width="390" alt="玩一会 · 点击打开游戏站" /></a>
-</p>
+  <br />
+  <img src="./assets/icons/java.svg" width="32" height="32" alt="Java" />
+  <img src="./assets/icons/python.svg" width="32" height="32" alt="Python" />
+  <img src="./assets/icons/javascript.svg" width="32" height="32" alt="JavaScript" />
+  <img src="./assets/icons/vuejs.svg" width="32" height="32" alt="Vue" />
+  <img src="./assets/icons/docker.svg" width="32" height="32" alt="Docker" />
+  <img src="./assets/icons/git.svg" width="32" height="32" alt="Git" />
+  <img src="./assets/icons/linux.svg" width="32" height="32" alt="Linux" />
 
-[博客 ↗](https://www.forwardzz.com/) · [游戏站 ↗](https://games.forwardzz.com/)
+  <p><sub>Java / Python / JavaScript / Vue / Docker / Git / Linux</sub></p>
+  <p><a href="https://www.forwardzz.com/">博客 ↗</a>　·　<a href="https://games.forwardzz.com/">游戏站 ↗</a></p>
+</div>
 
-### 最近
+<br clear="both" />
 
-- 做点能和朋友一起玩的网页小游戏。
-- 整理自己的开发环境和笔记。
-- Linux、Docker 和自动化脚本，遇到什么就折腾什么。
+---
 
-`Java` `Python` `JavaScript` `Vue` `Linux` `Docker` `Git`
+### 我的角落
+
+| 随手记录 | 一起玩点什么 |
+| :--- | :--- |
+| **[Forwardzz · 博客 ↗](https://www.forwardzz.com/)** | **[Forwardzz · 游戏站 ↗](https://games.forwardzz.com/)** |
+| 开发记录、学习笔记，以及自托管的折腾过程。 | 在线小游戏，还有可以和朋友组队的多人房间。 |
+
+### 正在折腾
+
+- **网页游戏** — 让朋友打开浏览器就能一起玩。
+- **开发环境** — 把项目和笔记整理得顺手一点。
+- **自托管** — Linux、Docker 和自动化，边用边学。
