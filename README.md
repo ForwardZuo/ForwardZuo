@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/portrait.png" align="right" width="28%" alt="蓝白色的猫耳少女与笔记本" />
+  <img src="./assets/desk.png" align="right" width="28%" alt="蓝白色窗边书桌、电脑与笔记本" />
   <h2>Hi, I'm ForwardZuo.</h2>
 
   <p>写代码 · 做游戏 · 记录日常</p>
